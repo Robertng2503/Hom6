@@ -31,5 +31,6 @@ HTML, CSS, Javascript
 
 ## Deployment
 
-[Click here for the deployed application]
+[Click here for the deployed application] https://github.com/Robertng2503/Hom6
+
 
